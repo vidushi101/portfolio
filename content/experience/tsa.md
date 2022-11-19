@@ -1,9 +1,9 @@
 ---
-title: "Backend Engineer"
-description: "BuyerAssist (India)"
-dateString: June 2021 - Ongoing
+title: "Technical Solutions Analyst"
+description: "Oracle Cerner"
+dateString: July 2022 - Ongoing
 draft: false
-tags: ["TypeScript", "NodeJS", "Express", "MongoDB", "MERN Stack", "AWS"]
+tags: ["analysis", "data analysis", "healthcare", "IT", "software", "SQL", "healthcare IT", "digital health"]
 showToc: false
 weight: 301
 --- 
