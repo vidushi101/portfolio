@@ -6,7 +6,7 @@ draft: false
 tags: ["project", "data analysis", "statistics","spreadsheets","Visualisation", "googl Sheets", "analysis"]
 weight: 103
 cover:
-    image: "/blog/spreadsheet/spreadsheet1.png"
+    image: "/certification/spreadsheet/spreadsheet1.png"
     
 ---
 Credentials

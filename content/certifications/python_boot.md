@@ -6,7 +6,7 @@ draft: false
 tags: ["Python", "NumPy", "Pandas", "Seaborn", "Scikit-Learn", "Regression"]
 weight: 104
 cover:
-    image: "/blog/python/python1.jpeg"
+    image: "/certification/python/python1.jpeg"
 ---
 
 # Details

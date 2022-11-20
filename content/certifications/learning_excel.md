@@ -6,7 +6,7 @@ draft: false
 tags: ["Excel", "statistics", "Visualisation", "data analysis", "spreadsheets", "analysis"]
 weight: 102
 cover:
-    image: "/blog/learning_excel/excel1.png"
+    image: "/certification/learning_excel/excel1.png"
     
 ---
  Credentials

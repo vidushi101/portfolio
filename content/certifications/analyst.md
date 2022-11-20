@@ -6,7 +6,7 @@ draft: false
 tags: ["Data analysis", "R", "SQL", "Tableau", "spreadsheets", "excel", "statistical analysis", "analysis", "ggplot"]
 weight: 101
 cover:
-    image: "/blog/data_analyst/cover.png"
+    image: "/certification/data_analyst/cover.png"
 ---
 
 # Credentials
