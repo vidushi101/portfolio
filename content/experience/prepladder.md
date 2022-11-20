@@ -1,7 +1,7 @@
 ---
-title: "Software Intern"
-description: "OriginHealth (Singapore)"
-dateString: March 2020 - Aug 2020
+title: "Executive Educator Relations Manager"
+description: "Unacademy - PrepLadder Pvt.Ltd."
+dateString: November 2020 - December 2021
 draft: false
 tags: []
 showToc: false

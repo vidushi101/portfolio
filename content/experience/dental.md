@@ -1,7 +1,7 @@
 ---
-title: "Computer Vision Intern"
-description: "IIT Madras (India)"
-dateString: May 2019 - July 2019
+title: "Dental Intern"
+description: "Genesis Institute of Dental Sciences and Research"
+dateString: July 2019 - July 2020
 draft: false
 tags: []
 showToc: false
