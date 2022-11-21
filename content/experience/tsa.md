@@ -27,7 +27,8 @@ weight: 301
 My role as a solutions analyst taught me about:
 - the EHR software systems, their workflows and build.
 - the **Cerner Millennium** software package.
-- **The role and of asking the right questions and looking in the right place to find answers during your analysis**
-- communication skills with **clients and stakeholders**
+- Health databases and the health protection laws related to **HL7 and PHI**.
+- **The role and of asking the right questions and looking in the right place to find answers during your analysis**.
+- communication skills with **clients and stakeholders**.
 
 ![](/experience/tsa/cerner_ehr.jpg)
