@@ -1,9 +1,9 @@
 ---
-title: "Obsidian Publish using GitHub Action"
-description: "A custom GitHub Action to publish Obsidian notes as a website"
-dateString: June 2022
+title: "Case Study on a health tracker-FitBit Fitness"
+description: "A capstone case study on a fitness-band data using R, documented on a Kaggle notebook"
+dateString: September 2022
 draft: false
-tags: ["AWS", "RegEx", "MkDocs", "GitHub Action", "Docker", "Bash", "TypeScript", "Node.JS"]
+tags: ["data analysis", "project", "R", "programming", "visualisation", "notebook", "github", "Kaggle", "ggplot", "capstone"]
 weight: 201
 cover:
     image: "/projects/obsidian-publish-github-action/cover.jpg"
