@@ -9,6 +9,11 @@ cover:
     image: "/projects/fitness/bellabeat.jpeg"
 ---
 
+## Resources
+- View the complete project on 🔗 **[Kaggle](https://www.kaggle.com/code/vidushikhanna/case-study-on-a-health-tracker-fitbit-fitness?scriptVersionId=111839581)**
+- View the complete project on 🔗 **[Github](https://github.com/vidushi101/fitness-data-analysis-Fitbit-tracker)**
+
+
 ## Introduction
 
 To upskill myself with the tools and techniques of data analysis I took the 9 months long **[Google Data Analytics Certification](https://www.coursera.org/professional-certificates/google-data-analytics?utm_source=gg&utm_medium=sem&utm_campaign=B2C_INDIA_google-data-analytics_google_FTCOF_professional-certificates_arte-agency_desktop&utm_content=B2C&campaignid=17653505036&adgroupid=138609709419&device=c&keyword=google%20data%20analytics%20certificate&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=608046438717&hide_mobile_promo)** all the while I was working a full time job. During the final stages of this certificate course , a capstone case study is a requirement.To fullfill this requirement I took up this interensting project on the **data retreived from a fitness band that we routinely use these days**. I did this project to brigabout ideas to enhance the marketing strategy for Bellabeat, a high-tech manufacturer of health-focused products, specially curated for women.
@@ -46,6 +51,3 @@ Few of the output visuals that I created
 - 2) Finding out the relation between nergy expenditure throughout the day and sleeplessness while in bed.
 ![](/projects/fitness/output_plot.png)
 
-## Resources
-- View the complete project on 🔗 **[Kaggle](https://www.kaggle.com/code/vidushikhanna/case-study-on-a-health-tracker-fitbit-fitness?scriptVersionId=111839581)**
-- View the complete project on 🔗 **[Github](https://github.com/vidushi101/fitness-data-analysis-Fitbit-tracker)**
