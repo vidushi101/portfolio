@@ -1,7 +1,7 @@
 ---
-title: "2022 Python for Machine Learning & Data Science Masterclass"
+title: " Python for Machine Learning & Data Science Masterclass"
 description: "Learning to use the power of Python to analyze data, create beautiful visualizations, and use powerful machine learning algorithms"
-dateString: Dec 2022-Present
+dateString: February 2023 -Present
 draft: false
 tags: ["Python", "NumPy", "Pandas", "Seaborn", "Scikit-Learn", "Regression"]
 weight: 104

@@ -16,7 +16,7 @@ weight: 302
 
 I joined Parexel International in December 2021 as a **Drug Safety Associate** for their biopharmaceutical project with **Sanofi SA**
 
-- Here I effectively analysed and processwd the data in **over 200 health individual case safety reports (ICSRS)**, resulting in meeting regulatory compliance and kpi before the deadline. 
+- Here I effectively analysed and processwd the data in **over 250 health individual case safety reports (ICSRS)**, resulting in meeting regulatory compliance and kpi before the deadline. 
 - I successfully **discussed and implemented plans** as well as workflows to **enhance project delivery of project goals and client satisfaction**.
 - I **mentored** eight new joinnes and assisted them in analysing the ICSRs assigned to them as a **SME**.
 
