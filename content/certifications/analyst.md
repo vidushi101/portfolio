@@ -4,7 +4,7 @@ description: "9 Month long online, rigorous, hands-on certiﬁcate – 8 courses
 dateString: December 2021 - September 2022
 draft: false
 tags: ["Data analysis", "R", "SQL", "Tableau", "spreadsheets", "excel", "statistical analysis", "analysis", "ggplot"]
-weight: 101
+weight: 102
 cover:
     image: "/certification/data_analyst/cover.png"
 ---

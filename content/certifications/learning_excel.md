@@ -4,7 +4,7 @@ description: "A LinkedIn provided course for data analysis in most popular sprea
 dateString:     February 2022
 draft: false
 tags: ["Excel", "statistics", "Visualisation", "data analysis", "spreadsheets", "analysis"]
-weight: 102
+weight: 104
 cover:
     image: "/certification/learning_excel/excel1.png"
     

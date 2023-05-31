@@ -63,16 +63,16 @@ params:
     hiddenInSingle: false # hide on single page
 
   socialIcons:
-    - name: "email"
+    - name: "Email"
       url: "mailto:vidushi04.khanna@gmail.com"
     - name: "linkedin"
       url: "https://www.linkedin.com/in/dr-vidushi-khanna/"
-    - name: "github"
+    - name: "Github"
       url: "https://github.com/vidushi101"
     - name: "Kaggle"
       url: "https://www.kaggle.com/vidushikhanna"
-    - name: "cv"
-      url: "https://drive.google.com/file/d/1yz_8OAKQN1rONsfqCaG5dKGgyrrrWAIa/view"
+    - name: "CV"
+      url: "https://drive.google.com/file/d/1qWEWph-a-DFqNaLsG0pzfNtDcZBW_5ht/view?usp=drive_link"
 
   # text search
   fuseOpts:

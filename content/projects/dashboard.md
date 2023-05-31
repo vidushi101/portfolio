@@ -9,7 +9,8 @@ weight: 202
 cover:
     image: "projects/dashboard/dashboard.png"
 --- 
-### 🔗 [Tableau](https://public.tableau.com/views/Violenceagainstwomen_16643749298500/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+- View the complete project on 🔗 **[Tableau](https://public.tableau.com/views/Violenceagainstwomen_16643749298500/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)**
+- View the complete project on 🔗 **[Github](https://github.com/vidushi101/Dashboard-The-Social-Pandemic)**
 
 ## Background
 A **Tableau**  dashboard build to explore the results of a survey undertaken by the Demographic and Health Survey (DHS). The DHS are nationally representative household surveys that have a smaple size between 5,000-30,000 households, conducted every 5 years.  
