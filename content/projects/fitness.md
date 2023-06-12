@@ -4,7 +4,7 @@ description: "A capstone case study on a fitness-band data using R, documented o
 dateString: September 2022
 draft: false
 tags: ["data analysis", "project", "R", "programming", "visualisation", "notebook", "github", "Kaggle", "ggplot", "tidyverse", "capstone", "visualisation", "plot"]
-weight: 203
+weight: 205
 cover:
     image: "/projects/fitness/bellabeat.jpeg"
 ---

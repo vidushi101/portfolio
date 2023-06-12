@@ -49,10 +49,10 @@ params:
     subtitle: Technical Solutions Analyst 🧑🏻‍💻 at [**Oracle Cerner**](https://www.cerner.com/), a leading healthcare IT organisation providing data-backed health technology solutions, USA.<br>A Dental graduate(BDS) with passion for all things **Digital**, **Data driven**, and requiring a deep dive into **analysis**, from India.<br>
     imageUrl: "home/image4.jpeg"
     imageWidth: 210
-    imageHeight: 230
+    imageHeight: 240
     # buttons:
     #   - name: Resume
-    #     url: "https://drive.google.com/file/d/15bupi_Ez5GhhNa2LIT7an1Qxg-0XKYH2/view"
+    #     url: "https://drive.google.com/file/d/1XH38cy9Gjal_GK04OHLUr6UqoLVDbSf8/view?usp=sharing"
 
   # List View
   hideDescriptionInList: false

@@ -3,12 +3,13 @@ title: "Social Pandemic- Violence against women"
 description: "A toggle operated interactive dashboard on Tableau for a DHS survey across 70 countries."
 dateString: October 2022
 draft: false
-tags: ["Data Viz", "visualisation", "dashboard", "Tableau", "survey", "interactive", "excel", "data analysis"]
+tags: ["Data Viz", "visualisation", "dashboard", "Tableau", "survey", "interactive", "excel", "data analysis", "EDA"]
 showToc: false
-weight: 202
+weight: 204
 cover:
     image: "projects/dashboard/dashboard.png"
 --- 
+## Resources
 - View the complete project on 🔗 **[Tableau](https://public.tableau.com/views/Violenceagainstwomen_16643749298500/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)**
 - View the complete project on 🔗 **[Github](https://github.com/vidushi101/Dashboard-The-Social-Pandemic)**
 

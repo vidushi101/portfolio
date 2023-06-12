@@ -4,7 +4,7 @@ description: "Data analysis and visualization of the Inpatient Mortality Indicat
 dateString: May 2023
 draft: false
 tags: ["data analysis", "project", "SQL", "programming", "visualisation", "TSQL", "github", "SQL server", "data cleaning", "EDA", "Tableau", "visualisation", "dashboard"]
-weight: 201
+weight: 202
 cover:
     image: "projects/IMI_photos/IMI_dashboard.png"
  
