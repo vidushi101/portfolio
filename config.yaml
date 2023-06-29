@@ -72,7 +72,7 @@ params:
     - name: "Kaggle"
       url: "https://www.kaggle.com/vidushikhanna"
     - name: "CV"
-      url: "https://drive.google.com/file/d/1XH38cy9Gjal_GK04OHLUr6UqoLVDbSf8/view?usp=sharing"
+      url: "https://drive.google.com/file/d/1nNI-g6IFQVLX7i4_uUAk4sKvz10A6qvJ/view?usp=drive_link"
 
   # text search
   fuseOpts:
