@@ -39,7 +39,7 @@ The following visual were created to determine:
 - **average salary by job title**
 - comparison of **work/life balance and job title** with option to "drill down" into the work/life balance according to the gender and industry.
 ## Interesting results
-- almost **59%** of respondents said they did not belong to this industry initally and made a career switch.
+- almost **59%** of respondents said they did not belong to this industry initially and made a career switch.
 -  the highest average salary is seen for **"data scientist"** role with the highest paying industry being "education" with average salary for respondents around 171.33 USD.
 - out of nearly 25 respondents working as "data scientists" two(8%) reported a work/life balance of perfect ten , while a major chunk(24%) reported it at average seven.
-- 26% (46/176)respondant "data analysts" rated their **work/life balance** to be two or less than it.
+- nearly 18% (68/381)respondant "data analysts" rated their **work/life balance** to be three or less than it.

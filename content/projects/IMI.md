@@ -11,7 +11,7 @@ cover:
 ---
 
 ## Resources
-- View the complete project on 🔗 **[Tableau](https://public.tableau.com/views/IMI2020Inpatientmortailityindicators/Dashboard3?:language=en-GB&:display_count=n&:origin=viz_share_link)**
+- View the complete project on 🔗 **[Tableau](https://public.tableau.com/app/profile/vidushi.khanna/viz/IMI2020Inpatientmortailityindicators/Dashboard3)**
 - View the complete project on 🔗 **[Github](https://github.com/vidushi101/IMI-2020-Analysis)**
 
 
@@ -92,6 +92,8 @@ an interactive dashboard that filters out the result based upon the input select
    out of the 64 "better" rated hospitals, 35 were rated better on a single indicator, 21 were rated better on two or three indicators and 8 were rated better on more than three indicators.
    *Regional Medical Center Of San Jose* and *UC Irvine Medical Center* outperformed by having 7 indicators that were rated better than the state results.
 
-   83 hospital were rated worse than the state for one or more inidcator. Out of these, 43 were rated worse on a single indicator, while 39 were rated worse on more than one indicator. *Palomar Health Downtown Campus* was rated worse on six indicators and *Saint Agnes Medical Center* was rated worse on five indicators.
+   
+   83 hospital were rated worse than the state for one or more inidcator. Out of these, 43 were rated worse on a single indicator, while 39 were rated worse on more than one indicator. 
+   *Palomar Health Downtown Campus* was rated worse on six indicators and *Saint Agnes Medical Center* was rated worse on five indicators.
 - **Maximum Risk Ajusted Mortality Rates(RARs):**
-*Pancreatic Resection* and *Acute Stroke Subarachnoid* had RAR as 100.0 for *Seton Medical Centre* and *Kaiser Foundation Hospital- West Los Angeles*, respectively.
+*Pancreatic Resection* and *Acute Stroke Subarachnoid* had an RAR of 100.0 for *Seton Medical Centre* and *Kaiser Foundation Hospital- West Los Angeles*, respectively.                           
